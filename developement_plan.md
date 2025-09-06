@@ -10,7 +10,7 @@ A containerized web application for manual tracking of bank balances, expenses, 
 - **Data Transformation**: dbt Core
 - **Dashboard**: Grafana
 - **Containerization**: Docker + Docker Compose
-- **Environment**: Ubuntu (local development)
+- **Environment**: Ubuntu (local development) and linux server
 
 ## Database Schema Design
 
